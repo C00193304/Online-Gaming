@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\jocon\desktop\onlinegaming\online-gaming\lab1\lab1\consoleapplication1\main.cpp(10): error C2280: 'Player::Player(const Player &)': attempting to reference a deleted function
+  c:\users\jocon\desktop\onlinegaming\online-gaming\lab1\lab1\consoleapplication1\player.h(17): note: compiler has generated 'Player::Player' here
+  c:\users\jocon\desktop\onlinegaming\online-gaming\lab1\lab1\consoleapplication1\player.h(17): note: 'Player::Player(const Player &)': function was implicitly deleted because a data member invokes a deleted or inaccessible function 'Net::Net(const Net &)'
+  c:\users\jocon\desktop\onlinegaming\online-gaming\lab1\lab1\consoleapplication1\net.h(38): note: 'Net::Net(const Net &)': function was implicitly deleted because a data member invokes a deleted or inaccessible function 'std::basic_ostringstream<char,std::char_traits<char>,std::allocator<char>>::basic_ostringstream(const std::basic_ostringstream<char,std::char_traits<char>,std::allocator<char>> &)'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.10.25017\include\sstream(534): note: 'std::basic_ostringstream<char,std::char_traits<char>,std::allocator<char>>::basic_ostringstream(const std::basic_ostringstream<char,std::char_traits<char>,std::allocator<char>> &)': function was explicitly deleted

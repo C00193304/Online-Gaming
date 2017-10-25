@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\jocon\desktop\onlinegaming\online-gaming\lab2\lab2-barebones\main.cpp(124): warning C4018: '<': signed/unsigned mismatch
+  Lab2-bareBones.vcxproj -> C:\Users\jocon\Desktop\OnlineGaming\Online-Gaming\Lab2\Lab2-bareBones\Debug\Lab2-bareBones.exe
+  Lab2-bareBones.vcxproj -> C:\Users\jocon\Desktop\OnlineGaming\Online-Gaming\Lab2\Lab2-bareBones\Debug\Lab2-bareBones.pdb (Partial PDB)
